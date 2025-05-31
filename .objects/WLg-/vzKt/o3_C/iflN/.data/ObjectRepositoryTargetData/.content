@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ofBpXHRhdE22M1flmSo1FA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="683d7615-9ec6-494c-924e-1b57fd372b6d" CvElementArea="530, 453, 876, 74" CvType="InputBox" DesignTimeRectangle="605, 457, 665, 69" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' /&gt;" Guid="37a88402-53c3-4504-ad9c-9effd3902d1e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Google' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="683d7615-9ec6-494c-924e-1b57fd372b6d" CvElementArea="530, 453, 876, 74" CvType="InputBox" DesignTimeRectangle="534, 457, 71, 69" FuzzySelectorArgument="&lt;webctrl class='iblpc' tag='DIV' type='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='.hvhmMe{margin:auto}.Ty0Rrc{margin-top:3px;color:#9aa0a6}' /&gt;" Guid="a8dd5f70-54f4-4f0b-a2f0-571616f66944" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="efd1fdb07afbe1a14c0022fae072bbbb.png" xmlns="">0ISfrY0RoGU-MjVFij_Nbow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

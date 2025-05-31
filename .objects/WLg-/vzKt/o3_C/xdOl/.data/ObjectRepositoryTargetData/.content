@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9UrCGVxhlkyzpqE6EZCvFw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="c7a69887-b3cd-4278-b2c5-4fb94c9a5906" CvType="AnyWordGroup" DesignTimeRectangle="252, 523, 77, 91" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="2118b8e5-53c6-4b85-b082-bd5a26b8c076" ScopeSelectorArgument="&lt;html app='msedge.exe' title='baleshwar temperature in celsius - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="4a2add8f81f71c8734255ef513835da9.png" xmlns="">0wGCMaDFQ1EWi13Fn63D_Hg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
